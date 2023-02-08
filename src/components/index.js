@@ -1,3 +1,5 @@
+//Import every Component
+
 import Navbar from "./Navbar";
 import Billing from "./Billing";
 import CardDeal from "./CardDeal";
@@ -8,6 +10,12 @@ import Stats from "./Stats";
 import Footer from "./Footer";
 import Testimonials from "./Testimonials";
 import Hero from "./Hero";
+import News from "./News";
+import Card from "./Card";
+import Projects from "./Projects";
+import About from "./About";
+import PageNotFound from "./PageNotFound";
+import GetStarted from "./GetStarted";
 
 export {
   Navbar,
@@ -20,4 +28,10 @@ export {
   Footer,
   Testimonials,
   Hero,
+  News,
+  Card,
+  Projects,
+  About,
+  PageNotFound,
+  GetStarted,
 };
